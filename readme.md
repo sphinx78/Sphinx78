@@ -71,7 +71,7 @@ def msg_from_sk():
 </div>
 
 <br/>
-```
+
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!-- ABOUT ME SECTION -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
@@ -171,11 +171,7 @@ def msg_from_sk():
 
 ## 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sphinx78/sphinx78/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sphinx78/sphinx78/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/sphinx78/sphinx78/output/github-snake-dark.svg" />
-</picture>
+![snake gif](https://github.com/sphinx78/sphinx78/blob/output/github-contribution-snake.svg)
 
 </div>
 
