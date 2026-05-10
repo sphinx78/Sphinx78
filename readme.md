@@ -171,7 +171,11 @@ def msg_from_sk():
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/sphinx78/sphinx78/blob/output/github-contribution-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sphinx78/sphinx78/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sphinx78/sphinx78/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/sphinx78/sphinx78/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
 
