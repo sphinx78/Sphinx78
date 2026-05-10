@@ -3,7 +3,7 @@
 <img src="header.gif" alt="Sphinx78 Header" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Shubham+Kayastha;%F0%9F%9A%80+Full-Stack+Dev+%7C+ML+Engineer+%7C+Builder" alt="Typing SVG" />
+  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Shubham+Kayastha;%F0%9F%9A%80+Full-Stack+Dev+%7C+ML+Engineer+%7C+Builder](https://readme-typing-svg.demolab.com/demo/?font=Indie+Flower&size=27&color=A52626&center=true&lines=Hi+there!+I+am+Shubham+Kayastha;Data+Science+Undergrad)" alt="Typing SVG" />
 </a>
 
 <br/>
