@@ -1,6 +1,3 @@
-<table width="100%" bgcolor="#000000" border="0" cellpadding="0" cellspacing="0">
-<tr><td>
-
 <div align="center">
 
 <img src="header.gif" alt="Sphinx78 Header" width="100%"/>
@@ -256,6 +253,3 @@ def msg_from_sk():
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!-- SECRET: If you're reading this, you're awesome 🤘 -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-
-</td></tr>
-</table>
