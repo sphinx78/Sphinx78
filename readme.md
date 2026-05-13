@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="header.gif" alt="Sphinx78 Header" width="100%"/>
+<img src="header2.gif" alt="Sphinx78 Header" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Indie+Flower&size=27&pause=1000&color=A52626&center=true&width=435&lines=Hi+there!+I+am+Shubham+Kayastha;Data+Science+Undergrad)](https://git.io/typing-svg)
 
