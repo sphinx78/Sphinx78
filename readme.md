@@ -1,4 +1,4 @@
-<div align="center">
+.<div align="center">
 
 <img src="header.gif" alt="Sphinx78 Header" width="100%"/>
 
